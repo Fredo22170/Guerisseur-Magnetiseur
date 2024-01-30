@@ -129,6 +129,9 @@ section{
     transform-origin: top;
 }
 
+.texte{
+    color: #fff;
+}
 .header .search-form.active{
     transform: scaleY(1);
 }
